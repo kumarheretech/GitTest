@@ -8,5 +8,5 @@ Commit 1 to branch
 
 Commit 2 to branch
 
-In both branch and main testing
+In both branch and main testing -> main merge changes
 
